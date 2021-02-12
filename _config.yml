@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Nicholas Luciw"
   avatar           : "nluciw_headshot.jpg"
-  bio              : "Mapping brains with MRI\n PhD Candidate in Department of Medical Biophysics at University of Toronto"
+  bio              : "Mapping brains with MRI <br> <br> <b>PhD Candidate</b> in Department of Medical Biophysics at University of Toronto"
   location         : #"Location"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.ca/citations?user=kDi1oBoAAAAJ&hl=en&oi=ao"
-  email            :
+  email            : "nicholas.luciw@mail.utoronto.ca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
