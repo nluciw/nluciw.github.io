@@ -3,7 +3,7 @@ title: "Deep learning for rapid blood flow image generation"
 collection: research
 permalink: /research/cbfnet
 excerpt: 'The <b> objective </b> of this work was to improve the efficiency of synthesis of blood flow images from MRI'
-date: 2020
+date: 2020-08-01
 venue: 'Proc. Intl. Soc. Mag. Reson. Med.'
 paperurl: 'https://index.mirasmart.com/ISMRM2020/PDFfiles/1289.html'
 citation: 'NJ Luciw, Z Shirzadi, SE Black, M Goubran, BJ MacIntosh. (2020). &quot;Automated generation of cerebral blood flow maps using deep learning and multiple delay arterial spin-labelled magnetic resonance imaging.&quot; <i>Proc. Intl. Soc. Mag. Reson. Med.</i>. 28, 1289.'

@@ -3,7 +3,7 @@ title: "Network-like patterns of cerebral blood flow and structure in youth bipo
 collection: research
 permalink: /research/cbfnet
 excerpt: 'The <b> objective </b> of this work was study the characteristics of blood flow patterns in youth with and without bipolar disorder.'
-date: 2021
+date: 2021-01-24
 venue: 'Journal of Cerebral Blood Flow and Metabolism'
 paperurl: 'https://journals.sagepub.com/doi/10.1177/0271678X21989246?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed'
 citation: 'Luciw NJ, Toma S, Goldstein BI, MacIntosh BJ. Correspondence between patterns of cerebral blood flow and structure in adolescents with and without bipolar disorder. J Cereb Blood Flow Metab. 2021 Jan 24:271678X21989246. doi: 10.1177/0271678X21989246. Epub ahead of print. PMID: 33487070.'
