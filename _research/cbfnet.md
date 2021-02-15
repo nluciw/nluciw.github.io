@@ -1,7 +1,7 @@
 ---
 title: "Deep learning for rapid blood flow image generation"
 collection: research
-permalink: /research/
+permalink: /research/cbfnet.md
 Automated generation of cerebral blood flow maps using deep learning and multiple delay arterial spin-labelled magnetic resonance imaging
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2020
