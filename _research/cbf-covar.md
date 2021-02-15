@@ -1,7 +1,7 @@
 ---
 title: "Network-like patterns of cerebral blood flow and structure in youth bipolar disorder"
 collection: research
-permalink: /research/cbfnet
+permalink: /research/cbf-covar
 excerpt: 'The <b> objective </b> of this work was study the characteristics of blood flow patterns in youth with and without bipolar disorder.'
 date: 2021-01-24
 venue: 'Journal of Cerebral Blood Flow and Metabolism'
