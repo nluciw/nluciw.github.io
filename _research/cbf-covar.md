@@ -15,4 +15,6 @@ The <b> objective </b> of this work was to study network-like patterns of cerebr
 
 Through hierarchical clustering, we observed that cerebral blood flow is organized into patterns that qualitatively map onto the brain's vascular territories. This pattern was consistent between youth with and without bipolar disorder. In bipolar disorder however, the details of this blood flow pattern were <i> more similar </i> to network-like patterns of brain structure.  
 
+Prior to publication in JCBFM, this work was showcased at the annual meeting of the Organization for Human Brain Mapping.
+
 Recommended citation: NJ Luciw, Z Shirzadi, SE Black, M Goubran, BJ MacIntosh. (2020). &quot;Automated generation of cerebral blood flow maps using deep learning and multiple delay arterial spin-labelled magnetic resonance imaging.&quot; <i>Proc. Intl. Soc. Mag. Reson. Med.</i>. 28, 1289.
