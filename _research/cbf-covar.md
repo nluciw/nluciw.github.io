@@ -14,6 +14,8 @@ thumb: /images/Figure1.pdf
 
 [Download paper here](https://journals.sagepub.com/doi/10.1177/0271678X21989246?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)
 
+[Check out the code here](https://github.com/nluciw/cbf_covar_in-bd)
+
 <img src="/images/Figure1.pdf" alt="drawing" width="800" class="center"/>
 
 The <b> objective </b> of this work was to study network-like patterns of cerebral blood flow in youth with and without bipolar disorder. 
