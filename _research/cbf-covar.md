@@ -22,6 +22,8 @@ thumb: /images/Figure1.pdf
 
 The <b> objective </b> of this work was to study network-like patterns of cerebral blood flow in youth with and without bipolar disorder. 
 
+The <b> technical challenge </b> of this work was finding meaningful patterns in large correlation matrices, and identifying the relationship between data from two modalities.
+
 Through hierarchical clustering, we observed that cerebral blood flow is organized into patterns that qualitatively map onto the brain's vascular territories. This pattern was consistent between youth with and without bipolar disorder. In those with bipolar disorder, however, the details of this blood flow pattern were <i> more similar </i> to network-like patterns of brain structure.  
 
 Prior to publication in JCBFM, this work was showcased at the annual meeting of the Organization for Human Brain Mapping.

@@ -4,7 +4,7 @@ collection: research
 permalink: /research/h_intensity
 excerpt: 'The <b> objective </b> of this work was to study the large-scale spatial distribution of neutral hydrogen in the Universe.
 <br> <br>
-The <b> technical challenge </b> of this work was manupulating an extremely large dataset (millions of samples) and distilling it down to the salient information (5 or so points of data).
+The <b> technical challenge </b> of this work was manipulating a large dataset (millions of samples) and distilling it down to the salient information (5 or so points of data).
 <br> <br>
 <b>Tools</b>: Python (scipy, numpy, OpenMP), frequentist & Bayesian statistics, high-performance computing'
 date: 2018-05-01
@@ -19,6 +19,8 @@ thumb: /images/h_intensity.png
 <img src="/images/h_intensity.png" alt="drawing" width="800" class="center"/>
 
 The <b> objective </b> of this work was to study the large-scale spatial distribution of neutral hydrogen in the Universe. 
+
+The <b> technical challenge </b> of this work was manipulating a large dataset (millions of samples) and distilling it down to the salient information (5 or so points of data).
 
 Through spatial cross-correlation with a survey of galaxies, we observed clustering in 21-cm line intensity maps obtained using the Parkes radio telescope. This proof-of-concept initiative developed software and analytical approaches for future purpose-built intensity mapping experiments, and is one of the first studies in the budding field of hydrogen intensity mapping., we observed that cerebral blood flow is organized into patterns that qualitatively map onto the brain's vascular territories. This pattern was consistent between youth with and without bipolar disorder. In those with bipolar disorder, however, the details of this blood flow pattern were <i> more similar </i> to network-like patterns of brain structure.  
 

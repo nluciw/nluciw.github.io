@@ -4,7 +4,7 @@ collection: research
 permalink: /research/cbfnet
 excerpt: 'The <b> objective </b> of this work was to improve the efficiency of synthesis of blood flow images from MRI
 <br> <br>
-The <b> technical challenge </b> of this work was to develop a processing pipeline for MRI of blood flow suitable for clinical use: fast, accurate, generalizable, and with uncertainty estimates.
+The <b> technical challenge </b> of this work was to develop a processing pipeline suitable for clinical use: fast, accurate, generalizable, and with uncertainty estimates.
 <br> <br>
 <b>Tools</b>: Python (TensorFlow, seaborn, numpy, Pandas), frequentist statistics'
 date: 2020-08-01
@@ -19,6 +19,8 @@ thumb: /images/bestworst_imgs.001.jpeg
 <img src="/images/bestworst_imgs.001.jpeg" alt="drawing" width="700" class="center"/>
 
 The <b> objective </b> of this work was to improve the efficiency of synthesis of blood flow images from a type of MRI known as multi-delay arterial spin labelling. This type of functional MRI is non-invasive and accurate, but is limited by cumbersome and slow post-processing required to generate clinically useful images.
+
+The <b> technical challenge </b> of this work was to develop a processing pipeline suitable for clinical use: fast, accurate, generalizable, and with uncertainty estimates.
 
 I trained a <i> convolutional neural network </i> in Python 3.5 (Keras API of Tensorflow 2.2) to perform this image generation task much more quickly than the standard processing approach. In the linked abstract, my co-authors and I explore the model's performance across brain regions, as well as demonstrate <i> Monte Carlo dropout </i> to estimate model uncertainty and gain insight into model performance, even without the ground truth for comparison.  
 
