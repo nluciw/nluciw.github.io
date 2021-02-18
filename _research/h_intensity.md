@@ -1,7 +1,7 @@
 ---
 title: "Low-amplitude clustering in low-redshift 21-cm intensity maps cross-correlated with 2dF galaxy densities"
 collection: research
-permalink: /research/cbf-covar
+permalink: /research/h_intensity
 excerpt: 'The <b> objective </b> of this work was to study the large-scale spatial distribution of neutral hydrogen in the Universe.
 <br> <br>
 <b>Tools</b>: Python (scipy, numpy, OpenMP), frequentist & Bayesian statistics, high-performance computing'
