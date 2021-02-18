@@ -4,6 +4,8 @@ collection: research
 permalink: /research/cbf-covar
 excerpt: 'The <b> objective </b> of this work was to study the characteristics of blood flow patterns in youth with and without bipolar disorder.
 <br> <br>
+The <b> technical challenge </b> of this work was finding meaningful patterns in large correlation matrices, and identifying the relationship between data from two modalities.
+<br> <br>
 <b>Tools</b>: Python (scikit-learn, seaborn, numpy, Pandas), frequentist statistics'
 date: 2021-01-24
 venue: 'Journal of Cerebral Blood Flow and Metabolism'

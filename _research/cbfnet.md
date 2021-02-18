@@ -4,6 +4,8 @@ collection: research
 permalink: /research/cbfnet
 excerpt: 'The <b> objective </b> of this work was to improve the efficiency of synthesis of blood flow images from MRI
 <br> <br>
+The <b> technical challenge </b> of this work was to develop a processing pipeline for MRI of blood flow suitable for clinical use: fast, accurate, generalizable, and with uncertainty estimates.
+<br> <br>
 <b>Tools</b>: Python (TensorFlow, seaborn, numpy, Pandas), frequentist statistics'
 date: 2020-08-01
 venue: 'Proc. Intl. Soc. Mag. Reson. Med.'

@@ -4,6 +4,8 @@ collection: research
 permalink: /research/h_intensity
 excerpt: 'The <b> objective </b> of this work was to study the large-scale spatial distribution of neutral hydrogen in the Universe.
 <br> <br>
+The <b> technical challenge </b> of this work was manupulating an extremely large dataset (millions of samples) and distilling it down to the salient information (5 or so points of data).
+<br> <br>
 <b>Tools</b>: Python (scipy, numpy, OpenMP), frequentist & Bayesian statistics, high-performance computing'
 date: 2018-05-01
 venue: 'Monthly Notices of the Royal Astronomical Society'
