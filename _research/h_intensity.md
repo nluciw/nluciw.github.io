@@ -22,7 +22,7 @@ The <b> objective </b> of this work was to study the large-scale spatial distrib
 
 The <b> technical challenge </b> of this work was manipulating a large dataset (millions of samples) and distilling it down to the salient information (5 or so points of data).
 
-Through spatial cross-correlation with a survey of galaxies, we observed clustering in 21-cm line intensity maps obtained using the Parkes radio telescope. This proof-of-concept initiative developed software and analytical approaches for future purpose-built intensity mapping experiments, and is one of the first studies in the budding field of hydrogen intensity mapping., we observed that cerebral blood flow is organized into patterns that qualitatively map onto the brain's vascular territories. This pattern was consistent between youth with and without bipolar disorder. In those with bipolar disorder, however, the details of this blood flow pattern were <i> more similar </i> to network-like patterns of brain structure.  
+Through spatial cross-correlation with a survey of galaxies, we observed clustering in 21-cm line intensity maps obtained using the Parkes radio telescope. This proof-of-concept initiative developed software and analytical approaches for future purpose-built intensity mapping experiments, and is one of the first studies in the budding field of hydrogen intensity mapping.
 
 Prior to publication in MNRAS, this work was showcased at the annual meeting of the American Astronomical Society.
 
