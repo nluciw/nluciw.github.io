@@ -9,12 +9,12 @@ date: 2018-05-01
 venue: 'Monthly Notices of the Royal Astronomical Society'
 paperurl: ''
 citation: 'C J Anderson, N J Luciw, Y -C Li, C Y Kuo, J Yadav, K W Masui, T-C Chang, X Chen, N Oppermann, Y-W Liao, U-L Pen, D C Price, L Staveley-Smith, E R Switzer, P T Timbie, L Wolz, Low-amplitude clustering in low-redshift 21-cm intensity maps cross-correlated with 2dF galaxy densities, Monthly Notices of the Royal Astronomical Society, Volume 476, Issue 3, May 2018, Pages 3382–3392, https://doi.org/10.1093/mnras/sty346'
-thumb: /files/h_intensity.png
+thumb: /images/h_intensity.png
 ---
 
 [Download paper here](https://academic.oup.com/mnras/article-abstract/476/3/3382/4848307?redirectedFrom=fulltext)
 
-<img src="/files/h_intensity.png" alt="drawing" width="800" class="center"/>
+<img src="/images/h_intensity.png" alt="drawing" width="800" class="center"/>
 
 The <b> objective </b> of this work was to study the large-scale spatial distribution of neutral hydrogen in the Universe. 
 
