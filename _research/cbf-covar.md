@@ -2,7 +2,7 @@
 title: "Correspondence between patterns of cerebral blood flow and structure in adolescents with and without bipolar disorder"
 collection: research
 permalink: /research/cbf-covar
-excerpt: 'The <b> objective </b> of this work was study the characteristics of blood flow patterns in youth with and without bipolar disorder.
+excerpt: 'The <b> objective </b> of this work was to study the characteristics of blood flow patterns in youth with and without bipolar disorder.
 <br> <br>
 <b>Tools</b>: Python (scikit-learn, seaborn, numpy, Pandas), frequentist statistics'
 date: 2021-01-24
