@@ -253,9 +253,9 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _volunteer
+   _volunteer
   - scope:
-      path: ""
+     path: ""
       type: volunteer
     values:
       layout: single

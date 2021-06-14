@@ -2,11 +2,11 @@
 title: "Automated Generation of Cerebral Blood Flow Maps Using Deep Learning and Multiple Delay Arterial Spin-Labelled MRI"
 collection: research
 permalink: /research/cbfnet
-excerpt: 'The <b> objective </b> of this work was to improve the efficiency of synthesis of blood flow images from MRI
+excerpt: 'The <b> objective </b> of this work was to improve the efficiency of synthesis of blood flow images from MRI.
 <br> <br>
 The <b> technical challenge </b> of this work was to develop a processing pipeline suitable for clinical use: fast, accurate, generalizable, and with uncertainty estimates.
 <br> <br>
-<b>Tools</b>: Python (TensorFlow, seaborn, numpy, Pandas), frequentist statistics'
+<b>Tools</b>: Python (TensorFlow, seaborn, numpy, Pandas)'
 date: 2021-06-06
 venue: 'Proc. Intl. Soc. Mag. Reson. Med.'
 paperurl: 'https://www.biorxiv.org/content/10.1101/2021.06.04.446768v1.abstract'
