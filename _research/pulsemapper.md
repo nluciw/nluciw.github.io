@@ -1,7 +1,7 @@
 ---
 title: "A deep learning approach to estimate voxelwise cardiac-related brain pulsatility from BOLD MRI"
 collection: research
-permalink: /research/cbfnet
+permalink: /research/pulsemapper
 excerpt: 'The <b> objective </b> of this work was to estimate the signature of cardiac pulsations in functional brain MRI without use of a separately recorded cardiac trace for reference. 
 <br> <br>
 The <b> technical challenge </b> of this work was to develop a processing pipeline suitable for complex 4D data aimed to extract a signal whose characteristic frequency is faster than our sampling rate.
