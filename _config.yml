@@ -255,7 +255,7 @@ defaults:
       comments: true
   # _volunteer
   - scope:
-     path: ""
+      path: ""
       type: volunteer
     values:
       layout: single
