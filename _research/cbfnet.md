@@ -14,7 +14,7 @@ citation: 'Luciw N. J., Shirzadi Z., Black S. E., Goubran M., MacIntosh B. J. (2
 thumb: /images/cbfnet_Fig1.pdf
 ---
 
-[Download pre-print article abstract here](https://www.biorxiv.org/content/10.1101/2021.06.04.446768v1.abstract)
+[Download pre-print article here](https://www.biorxiv.org/content/10.1101/2021.06.04.446768v1.abstract)
 
 <img src="/images/cbfnet_Fig1.pdf" alt="drawing" width="700" class="center"/>
 
